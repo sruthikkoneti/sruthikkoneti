@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Sruthik Koneti</p>
+<h6 align="left">I'm Sruthik Koneti</h6>
 
 ###
 
