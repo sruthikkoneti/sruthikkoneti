@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I'm Sruthik Koneti</h5>
+<h3 align="left">I'm Sruthik Koneti</h3>
 
 ###
 
@@ -66,6 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
 ###
@@ -79,6 +81,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sruthikkoneti/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yyinsjm5nolx3h4bkqdbtd245y&unique={true|1|on|yes})?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
