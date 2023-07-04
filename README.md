@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🏦 I'm a Computer Science Engineering undergrad aspiring to become a skilled software developer.<br>🔭 I’m currently working on developing my skills in the field of MERN Stack.<br>🌱 I’m currently working on improving my skills.<br>👯 I’m looking to collaborate on open-source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.<br>📫 How to reach me: Above linked socials, feel free to reach me out!<br>😄 Pronouns: He/Him.</p>
+<p align="left">🏦 I'm a Computer Science Engineering undergrad aspiring to become a skilled software developer.<br>🔭 I’m currently working on developing my skills in the field of MERN Stack.<br>👯 I’m looking to collaborate on open-source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.<br>📫 How to reach me: Above linked socials, feel free to reach me out!<br>😄 Pronouns: He/Him.</p>
 
 ###
 
